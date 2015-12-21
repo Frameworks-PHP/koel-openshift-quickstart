@@ -1,0 +1,1 @@
+# koel-openshift-quickstart
